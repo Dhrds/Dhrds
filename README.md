@@ -1,61 +1,55 @@
-<div align="center">
-  <img src="./assets/ficha.svg" width="100%" alt="Ficha de personagem de Douglas Silva: Desenvolvedor Full Stack, multiclasse, com mais de dois anos em produção. Especialidades: sistemas sob medida para clientes, ferramentas internas, IA e automação, infra e deploy. Stack: Python, TypeScript, C#, Node.js, React, Django, .NET e Docker.">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" width="100%" alt="Douglas Silva, desenvolvedor full stack. Sistemas sob medida, ferramentas internas e automação com IA, do entendimento do problema ao deploy em produção. Mais de dois anos em produção. Stack principal: Python, TypeScript, C# e Node.js.">
+</picture>
 
 <br>
 
-**Olá, viajante.** Eu sou o Douglas, desenvolvedor full stack.
+Desenvolvedor full stack com mais de dois anos entregando software em produção. Trabalho de ponta a ponta: entendo o problema com quem vai usar o sistema, construo front-end e back-end, integro IA onde ela resolve algo de verdade e cuido do deploy.
 
-Há mais de dois anos entrego software em produção: sistemas sob medida para clientes, ferramentas internas que poupam horas do time, automações com IA e a infraestrutura que mantém tudo no ar. Para mim, linguagem é equipamento, e eu troco conforme a missão. No dia a dia passo por Python, TypeScript, C# e Node.js.
+Escolho a linguagem pelo projeto, não o contrário. No dia a dia alterno entre Python, TypeScript, C# e Node.js.
 
-A maior parte do que construo vive em repositórios privados. O mapa abaixo mostra o caminho que uma entrega costuma percorrer nas minhas mãos.
+## Áreas de atuação
 
-<br>
+| Área | O que entrego |
+| :-- | :-- |
+| **Sistemas sob medida** | Aplicações web para clientes, do levantamento de requisitos à entrada em produção |
+| **Ferramentas internas** | Automação de rotinas e sistemas de apoio para equipes |
+| **IA e automação** | Integração de LLMs a produtos e a processos de negócio |
+| **Infraestrutura e deploy** | Ambientes em Docker, pipelines de CI/CD e operação em produção |
 
-<div align="center">
-  <img src="./assets/mapa.svg" width="100%" alt="Mapa de uma entrega, da ideia à produção: briefing para entender o problema, front-end em React e TypeScript, back-end em Python, C# ou Node.js, IA com LLMs e automação, deploy com Docker e CI/CD e, por fim, o sistema no ar.">
-</div>
+## Como trabalho
 
-## Especialidades
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/fluxo-dark.svg">
+  <img src="./assets/fluxo-light.svg" width="100%" alt="Cinco etapas em sequência: descoberta, para entender o problema; front-end em React e TypeScript; back-end em Python, C# ou Node.js; IA com LLMs e automação; e produção com Docker e CI/CD.">
+</picture>
 
-| | Missão | Como eu jogo |
-| :-: | :-- | :-- |
-| 🧭 | **Sistemas sob medida** | Do briefing com o cliente até o sistema em uso, cuidando de front, back e banco |
-| 🛠️ | **Ferramentas internas** | Automatizo o trabalho repetitivo para o time gastar tempo com o que importa |
-| ✨ | **IA e automação** | Coloco LLMs dentro do produto, como parte do fluxo e não como enfeite |
-| 🚢 | **Infra e deploy** | Docker, pipelines de CI/CD e o sistema rodando em produção |
+## Stack
 
-## Inventário
-
-| Slot | Equipado |
+| Camada | Tecnologias |
 | :-- | :-- |
 | **Back-end** | `Python` `Django` `Django REST Framework` `Flask` `C#` `.NET` `Node.js` `Express` |
 | **Front-end** | `TypeScript` `React` `Vite` `JavaScript` `Blazor` `HTML` `CSS / SCSS` |
 | **IA** | `Integração com LLMs` `Gemini API` |
-| **Infra** | `Docker` `Docker Compose` `GitHub Actions` `nginx` `Railway` |
+| **Infraestrutura** | `Docker` `Docker Compose` `GitHub Actions` `nginx` `Railway` |
 | **Qualidade** | `pytest` `testes unitários e de segurança` |
 
-## Amostras abertas
+## Projetos abertos
 
-O trabalho de cliente fica guardado. Estes são públicos e mostram como eu organizo um projeto.
+A maior parte do meu trabalho está em repositórios privados de clientes. Os projetos abaixo são públicos e mostram como organizo código, testes e deploy.
 
-| Projeto | O que é | Itens usados |
+| Projeto | Descrição | Tecnologias |
 | :-- | :-- | :-- |
 | [**sistema_base**](https://github.com/Dhrds/sistema_base) | Template que uso como ponto de partida de sistemas novos, com front em React 19 e servidor Express | `TypeScript` `React` `Vite` `Express` |
-| [**projeto_votacao**](https://github.com/Dhrds/projeto_votacao) | Aplicação de votação em que o foco é a suíte de testes unitários e de segurança | `Django` `DRF` `pytest` `GitHub Actions` |
-| [**my-django-app**](https://github.com/Dhrds/my-django-app) | Script que monta sozinho a estrutura de um projeto Django com Docker, nginx e CI | `Python` `Docker` |
-| [**rpg**](https://github.com/Dhrds/rpg) | Jogo de RPG para a web, com ambiente em Docker Compose e pipeline de CI/CD | `Django` `Docker` `GitHub Actions` |
+| [**projeto_votacao**](https://github.com/Dhrds/projeto_votacao) | Aplicação de votação com foco na suíte de testes unitários e de segurança | `Django` `DRF` `pytest` `GitHub Actions` |
+| [**my-django-app**](https://github.com/Dhrds/my-django-app) | Gerador que cria a estrutura de um projeto Django com Docker, nginx e CI | `Python` `Docker` |
+| [**rpg**](https://github.com/Dhrds/rpg) | Aplicação Django com ambiente em Docker Compose e pipeline de CI/CD | `Django` `Docker` `GitHub Actions` |
 
 <!--
   CONTATO: descomente e preencha com os seus links.
 
-## Chamar para a party
+## Contato
 
 [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO) · [E-mail](mailto:SEU-EMAIL)
 -->
-
-<br>
-
-<div align="center">
-  <sub>Jogo salvo. Até a próxima fase.</sub>
-</div>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 124" width="880" height="124" role="img" aria-labelledby="t d">
+  <title id="t">Etapas de uma entrega</title>
+  <desc id="d">Cinco etapas em sequência: descoberta, para entender o problema; front-end em React e TypeScript; back-end em Python, C# ou Node.js; IA com LLMs e automação; e produção com Docker e CI/CD.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .label { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 11px; letter-spacing: 2px; fill: #9198a1; }
+    .in { animation: in 0.6s ease-out both; }
+    @keyframes in { from { opacity: 0; transform: translateY(6px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+  
+  <g class="in" style="animation-delay:0.10s">
+    <rect x="0.5" y="12.5" width="159" height="95" rx="8" fill="#151b23" stroke="#3d444d"/>
+    <text x="14" y="40" class="mono" font-size="11" fill="#3fd0bf" style="letter-spacing:1px">01</text>
+    <text x="14" y="68" font-size="16" font-weight="600" fill="#f0f6fc">Descoberta</text>
+    <text x="14" y="89" font-size="12" fill="#9198a1">Entender o problema</text>
+    <line x1="164" y1="60" x2="175" y2="60" stroke="#9198a1" stroke-width="1.5"/>
+    <path d="M171,56 l5,4 l-5,4" fill="none" stroke="#9198a1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="in" style="animation-delay:0.24s">
+    <rect x="180.5" y="12.5" width="159" height="95" rx="8" fill="#151b23" stroke="#3d444d"/>
+    <text x="194" y="40" class="mono" font-size="11" fill="#3fd0bf" style="letter-spacing:1px">02</text>
+    <text x="194" y="68" font-size="16" font-weight="600" fill="#f0f6fc">Front-end</text>
+    <text x="194" y="89" font-size="12" fill="#9198a1">React e TypeScript</text>
+    <line x1="344" y1="60" x2="355" y2="60" stroke="#9198a1" stroke-width="1.5"/>
+    <path d="M351,56 l5,4 l-5,4" fill="none" stroke="#9198a1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="in" style="animation-delay:0.38s">
+    <rect x="360.5" y="12.5" width="159" height="95" rx="8" fill="#151b23" stroke="#3d444d"/>
+    <text x="374" y="40" class="mono" font-size="11" fill="#3fd0bf" style="letter-spacing:1px">03</text>
+    <text x="374" y="68" font-size="16" font-weight="600" fill="#f0f6fc">Back-end</text>
+    <text x="374" y="89" font-size="12" fill="#9198a1">Python, C# ou Node.js</text>
+    <line x1="524" y1="60" x2="535" y2="60" stroke="#9198a1" stroke-width="1.5"/>
+    <path d="M531,56 l5,4 l-5,4" fill="none" stroke="#9198a1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="in" style="animation-delay:0.52s">
+    <rect x="540.5" y="12.5" width="159" height="95" rx="8" fill="#151b23" stroke="#3d444d"/>
+    <text x="554" y="40" class="mono" font-size="11" fill="#3fd0bf" style="letter-spacing:1px">04</text>
+    <text x="554" y="68" font-size="16" font-weight="600" fill="#f0f6fc">IA</text>
+    <text x="554" y="89" font-size="12" fill="#9198a1">LLMs e automação</text>
+    <line x1="704" y1="60" x2="715" y2="60" stroke="#9198a1" stroke-width="1.5"/>
+    <path d="M711,56 l5,4 l-5,4" fill="none" stroke="#9198a1" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g class="in" style="animation-delay:0.66s">
+    <rect x="720.5" y="12.5" width="159" height="95" rx="8" fill="#151b23" stroke="#3fd0bf" stroke-width="1.5"/>
+    <text x="734" y="40" class="mono" font-size="11" fill="#3fd0bf" style="letter-spacing:1px">05</text>
+    <text x="734" y="68" font-size="16" font-weight="600" fill="#f0f6fc">Produção</text>
+    <text x="734" y="89" font-size="12" fill="#9198a1">Docker e CI/CD</text>
+  </g>
+</svg>
