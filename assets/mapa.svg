@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 404" width="880" height="404" role="img" aria-labelledby="t d">
+  <title id="t">Mapa de uma entrega</title>
+  <desc id="d">O caminho de uma entrega, da ideia à produção: briefing para entender o problema, front-end em React e TypeScript, back-end em Python, C# ou Node.js, IA com LLMs e automação, deploy com Docker e CI/CD e, por fim, o sistema no ar em produção.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .cap { font-size: 11px; letter-spacing: 3px; fill: #8d93a6; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    .draw { animation: draw 3.2s ease-in-out both; }
+    @keyframes draw { from { stroke-dashoffset: 1; } }
+    .pop { animation: pop 0.5s ease-out both; }
+    @keyframes pop { from { opacity: 0; } }
+    .ping { transform-box: fill-box; transform-origin: center; animation: ping 1.8s ease-out infinite; }
+    @keyframes ping { from { transform: scale(0.6); opacity: 1; } to { transform: scale(2.4); opacity: 0; } }
+  </style>
+  <defs>
+    <mask id="reveal" maskUnits="userSpaceOnUse" x="0" y="0" width="880" height="404">
+      <path d="M112,292 C156,232 190,204 240,204 S320,292 370,292 S450,204 500,204 S580,292 630,292 S726,246 760,176" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" pathLength="1" stroke-dasharray="1" class="draw"/>
+    </mask>
+  </defs>
+  
+  <rect x="0.5" y="0.5" width="879" height="403" rx="14" fill="#12141c" stroke="#2e3446"/>
+  <rect x="8.5" y="8.5" width="863" height="387" rx="8" fill="none" stroke="#f2c14e" stroke-opacity="0.28"/>
+  
+  <text x="36" y="36" class="cap">MAPA DE UMA ENTREGA</text>
+  <text x="844" y="36" class="cap" text-anchor="end">DA IDEIA À PRODUÇÃO</text>
+  <line x1="36" y1="50" x2="844" y2="50" stroke="#2e3446"/>
+  <g fill="#2e3446" opacity="0.7">
+    <path d="M170,300 l14,-18.2 l14,18.2 z"/><path d="M190,300 l9,-11.700000000000001 l9,11.700000000000001 z"/><path d="M322,150 l12,-15.600000000000001 l12,15.600000000000001 z"/><path d="M344,150 l16,-20.8 l16,20.8 z"/>
+    <path d="M566,150 l14,-18.2 l14,18.2 z"/><path d="M590,150 l9,-11.700000000000001 l9,11.700000000000001 z"/><path d="M664,132 l11,-14.3 l11,14.3 z"/><path d="M820,300 l15,-19.5 l15,19.5 z"/><path d="M54,190 l10,-13 l10,13 z"/>
+  </g>
+  <path d="M112,292 C156,232 190,204 240,204 S320,292 370,292 S450,204 500,204 S580,292 630,292 S726,246 760,176" fill="none" stroke="#8d93a6" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 9" mask="url(#reveal)"/>
+  
+    <g class="pop" style="animation-delay:0.3s">
+      <rect x="106" y="286" width="12" height="12" fill="#12141c" stroke="#f2c14e" stroke-width="2" transform="rotate(45 112 292)"/>
+      <text x="112" y="326" font-size="11" font-weight="700" fill="#f2c14e" text-anchor="middle" style="letter-spacing:1.5px">FASE 1</text>
+      <text x="112" y="343" font-size="14" font-weight="700" fill="#ece7d8" text-anchor="middle">Briefing</text>
+      <text x="112" y="359" font-size="11" fill="#8d93a6" text-anchor="middle">entender o problema</text>
+    </g>
+    <g class="pop" style="animation-delay:0.8s">
+      <rect x="234" y="198" width="12" height="12" fill="#12141c" stroke="#f2c14e" stroke-width="2" transform="rotate(45 240 204)"/>
+      <text x="240" y="142" font-size="11" font-weight="700" fill="#f2c14e" text-anchor="middle" style="letter-spacing:1.5px">FASE 2</text>
+      <text x="240" y="159" font-size="14" font-weight="700" fill="#ece7d8" text-anchor="middle">Front-end</text>
+      <text x="240" y="175" font-size="11" fill="#8d93a6" text-anchor="middle">React + TypeScript</text>
+    </g>
+    <g class="pop" style="animation-delay:1.3s">
+      <rect x="364" y="286" width="12" height="12" fill="#12141c" stroke="#f2c14e" stroke-width="2" transform="rotate(45 370 292)"/>
+      <text x="370" y="326" font-size="11" font-weight="700" fill="#f2c14e" text-anchor="middle" style="letter-spacing:1.5px">FASE 3</text>
+      <text x="370" y="343" font-size="14" font-weight="700" fill="#ece7d8" text-anchor="middle">Back-end</text>
+      <text x="370" y="359" font-size="11" fill="#8d93a6" text-anchor="middle">Python, C# ou Node.js</text>
+    </g>
+    <g class="pop" style="animation-delay:1.8s">
+      <rect x="494" y="198" width="12" height="12" fill="#12141c" stroke="#f2c14e" stroke-width="2" transform="rotate(45 500 204)"/>
+      <text x="500" y="142" font-size="11" font-weight="700" fill="#f2c14e" text-anchor="middle" style="letter-spacing:1.5px">FASE 4</text>
+      <text x="500" y="159" font-size="14" font-weight="700" fill="#ece7d8" text-anchor="middle">IA</text>
+      <text x="500" y="175" font-size="11" fill="#8d93a6" text-anchor="middle">LLMs e automação</text>
+    </g>
+    <g class="pop" style="animation-delay:2.3s">
+      <rect x="624" y="286" width="12" height="12" fill="#12141c" stroke="#f2c14e" stroke-width="2" transform="rotate(45 630 292)"/>
+      <text x="630" y="326" font-size="11" font-weight="700" fill="#f2c14e" text-anchor="middle" style="letter-spacing:1.5px">FASE 5</text>
+      <text x="630" y="343" font-size="14" font-weight="700" fill="#ece7d8" text-anchor="middle">Deploy</text>
+      <text x="630" y="359" font-size="11" fill="#8d93a6" text-anchor="middle">Docker e CI/CD</text>
+    </g>
+    <g class="pop" style="animation-delay:2.8s">
+      <circle cx="760" cy="176" r="9" fill="none" stroke="#f2c14e" stroke-width="2" class="ping"/>
+      <line x1="760" y1="176" x2="760" y2="150" stroke="#ece7d8" stroke-width="2"/>
+      <path d="M761,150 h16 l-5,6 l5,6 h-16 z" fill="#f2c14e"/>
+      <circle cx="760" cy="176" r="4" fill="#f2c14e"/>
+      <text x="760" y="102" font-size="11" font-weight="700" fill="#f2c14e" text-anchor="middle" style="letter-spacing:1.5px">FASE FINAL</text>
+      <text x="760" y="119" font-size="14" font-weight="700" fill="#ece7d8" text-anchor="middle">Produção</text>
+      <text x="760" y="135" font-size="11" fill="#8d93a6" text-anchor="middle">sistema no ar</text>
+    </g>
+  <text x="440" y="380" font-size="11" fill="#8d93a6" text-anchor="middle">a mesma pessoa em todas as fases</text>
+</svg>

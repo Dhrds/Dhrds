@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 364" width="880" height="364" role="img" aria-labelledby="t d">
+  <title id="t">Ficha de personagem de Douglas Silva</title>
+  <desc id="d">Desenvolvedor Full Stack, multiclasse, com mais de dois anos em produção. Especialidades: sistemas sob medida para clientes, ferramentas internas, IA e automação, infra e deploy. Stack: Python, TypeScript, C#, Node.js, React, Django, .NET e Docker.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .cap { font-size: 11px; letter-spacing: 3px; fill: #8d93a6; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    .pop { animation: pop 0.45s ease-out both; }
+    @keyframes pop { from { opacity: 0; transform: translateY(6px); } }
+    .bob { animation: bob 1.4s steps(2, jump-none) infinite alternate; }
+    @keyframes bob { to { transform: translateY(-3px); } }
+    .eyes { animation: blink 4.5s steps(1) infinite; }
+    @keyframes blink { 0%, 100% { opacity: 1; } 93% { opacity: 0; } 96% { opacity: 1; } }
+    .glow { animation: glow 1.8s ease-in-out infinite alternate; }
+    @keyframes glow { to { opacity: 0.35; } }
+    .twinkle { animation: twinkle 2.8s steps(1) infinite; }
+    @keyframes twinkle { 0%, 100% { opacity: 0; } 40% { opacity: 1; } 70% { opacity: 0; } }
+    .type { transform-box: fill-box; transform-origin: left center; animation: type 2.4s steps(48) 1.5s both; }
+    @keyframes type { from { transform: scaleX(0); } }
+    .cursor { animation: cursor 1s steps(1) infinite; }
+    @keyframes cursor { 50% { opacity: 0; } }
+  </style>
+  <defs><clipPath id="typed"><rect class="type" x="236" y="316" width="610" height="24"/></clipPath></defs>
+  
+  <rect x="0.5" y="0.5" width="879" height="363" rx="14" fill="#12141c" stroke="#2e3446"/>
+  <rect x="8.5" y="8.5" width="863" height="347" rx="8" fill="none" stroke="#f2c14e" stroke-opacity="0.28"/>
+  
+  <text x="36" y="36" class="cap">FICHA DE PERSONAGEM</text>
+  <text x="844" y="36" class="cap" text-anchor="end">SAVE 01 &#183; 3+ ANOS EM PRODUÇÃO</text>
+  <line x1="36" y1="50" x2="844" y2="50" stroke="#2e3446"/>
+
+  <rect x="36.5" y="66.5" width="176" height="230" rx="8" fill="#181b26" stroke="#2e3446"/>
+  <rect x="50" y="82" width="4" height="4" fill="#f2c14e" class="twinkle" style="animation-delay:0s"/><rect x="196" y="96" width="4" height="4" fill="#f2c14e" class="twinkle" style="animation-delay:0.7s"/><rect x="188" y="226" width="4" height="4" fill="#f2c14e" class="twinkle" style="animation-delay:1.4s"/><rect x="48" y="210" width="4" height="4" fill="#f2c14e" class="twinkle" style="animation-delay:2.0999999999999996s"/>
+  <g class="bob" shape-rendering="crispEdges"><rect x="100" y="86" width="48" height="12" fill="#3f5fa8"/><rect x="88" y="98" width="12" height="12" fill="#3f5fa8"/><rect x="100" y="98" width="48" height="12" fill="#5a7fd0"/><rect x="148" y="98" width="12" height="12" fill="#3f5fa8"/><rect x="76" y="110" width="12" height="12" fill="#3f5fa8"/><rect x="88" y="110" width="12" height="12" fill="#5a7fd0"/><rect x="100" y="110" width="48" height="12" fill="#0b0d14"/><rect x="148" y="110" width="12" height="12" fill="#5a7fd0"/><rect x="160" y="110" width="12" height="12" fill="#3f5fa8"/><rect x="76" y="122" width="12" height="12" fill="#3f5fa8"/><rect x="88" y="122" width="12" height="12" fill="#0b0d14"/><rect x="112" y="122" width="24" height="12" fill="#0b0d14"/><rect x="148" y="122" width="12" height="12" fill="#0b0d14"/><rect x="160" y="122" width="12" height="12" fill="#3f5fa8"/><rect x="76" y="134" width="12" height="12" fill="#3f5fa8"/><rect x="88" y="134" width="12" height="12" fill="#5a7fd0"/><rect x="100" y="134" width="48" height="12" fill="#0b0d14"/><rect x="148" y="134" width="12" height="12" fill="#5a7fd0"/><rect x="160" y="134" width="12" height="12" fill="#3f5fa8"/><rect x="88" y="146" width="24" height="12" fill="#3f5fa8"/><rect x="112" y="146" width="24" height="12" fill="#5a7fd0"/><rect x="136" y="146" width="24" height="12" fill="#3f5fa8"/><rect x="76" y="158" width="96" height="12" fill="#3f5fa8"/><rect x="64" y="170" width="24" height="12" fill="#3f5fa8"/><rect x="88" y="170" width="12" height="12" fill="#5a7fd0"/><rect x="100" y="170" width="48" height="12" fill="#3f5fa8"/><rect x="148" y="170" width="12" height="12" fill="#5a7fd0"/><rect x="160" y="170" width="24" height="12" fill="#3f5fa8"/><rect x="64" y="182" width="12" height="12" fill="#3f5fa8"/><rect x="76" y="182" width="12" height="12" fill="#e8c39e"/><rect x="88" y="182" width="72" height="12" fill="#c9ced9"/><rect x="160" y="182" width="12" height="12" fill="#e8c39e"/><rect x="172" y="182" width="12" height="12" fill="#3f5fa8"/><rect x="64" y="194" width="24" height="12" fill="#3f5fa8"/><rect x="88" y="194" width="24" height="12" fill="#c9ced9"/><rect x="136" y="194" width="24" height="12" fill="#c9ced9"/><rect x="160" y="194" width="24" height="12" fill="#3f5fa8"/><rect x="76" y="206" width="12" height="12" fill="#3f5fa8"/><rect x="88" y="206" width="72" height="12" fill="#9aa1b2"/><rect x="160" y="206" width="12" height="12" fill="#3f5fa8"/><rect x="76" y="218" width="96" height="12" fill="#3f5fa8"/><rect x="64" y="230" width="36" height="12" fill="#3f5fa8"/><rect x="100" y="230" width="12" height="12" fill="#5a7fd0"/><rect x="112" y="230" width="24" height="12" fill="#3f5fa8"/><rect x="136" y="230" width="12" height="12" fill="#5a7fd0"/><rect x="148" y="230" width="36" height="12" fill="#3f5fa8"/><g class="eyes"><rect x="100" y="122" width="12" height="12" fill="#f2c14e"/><rect x="136" y="122" width="12" height="12" fill="#f2c14e"/></g><g class="glow"><rect x="112" y="194" width="24" height="12" fill="#f2c14e"/></g></g>
+  <text x="124.5" y="280" font-size="13" fill="#f2c14e" text-anchor="middle">@Dhrds</text>
+
+  <text x="240" y="98" font-size="30" font-weight="700" fill="#ece7d8">Douglas Silva</text>
+  <text x="240" y="124" font-size="14" fill="#8d93a6">Classe <tspan fill="#f2c14e" dx="6">Desenvolvedor Full Stack</tspan><tspan dx="10">&#183; multiclasse</tspan></text>
+  <text x="240" y="158" class="cap" style="letter-spacing:2px">ESPECIALIDADES</text>
+  
+  <g class="pop" style="animation-delay:0.40s">
+    <rect x="240.5" y="170.5" width="295" height="47" rx="6" fill="#181b26" stroke="#2e3446"/>
+    <rect x="240.5" y="178" width="3" height="32" fill="#7bd389"/>
+    <g shape-rendering="crispEdges">
+    <rect x="258" y="185" width="20" height="18" fill="none" stroke="#7bd389" stroke-width="2"/>
+    <rect x="258" y="185" width="20" height="5" fill="#7bd389"/>
+    <rect x="262" y="194" width="8" height="2" fill="#7bd389"/>
+    <rect x="262" y="198" width="12" height="2" fill="#7bd389"/></g>
+    <text x="292" y="191" font-size="13" font-weight="700" fill="#ece7d8">Sistemas sob medida</text>
+    <text x="292" y="207" font-size="11" fill="#8d93a6">web, para clientes</text>
+  </g>
+  <g class="pop" style="animation-delay:0.58s">
+    <rect x="548.5" y="170.5" width="295" height="47" rx="6" fill="#181b26" stroke="#2e3446"/>
+    <rect x="548.5" y="178" width="3" height="32" fill="#6ea8fe"/>
+    <g shape-rendering="crispEdges" fill="#6ea8fe">
+    <rect x="570" y="188" width="12" height="12"/>
+    <rect x="574" y="184" width="4" height="20"/>
+    <rect x="566" y="192" width="20" height="4"/>
+    <rect x="574" y="192" width="4" height="4" fill="#181b26"/></g>
+    <text x="600" y="191" font-size="13" font-weight="700" fill="#ece7d8">Ferramentas internas</text>
+    <text x="600" y="207" font-size="11" fill="#8d93a6">que poupam horas do time</text>
+  </g>
+  <g class="pop" style="animation-delay:0.76s">
+    <rect x="240.5" y="228.5" width="295" height="47" rx="6" fill="#181b26" stroke="#2e3446"/>
+    <rect x="240.5" y="236" width="3" height="32" fill="#b79cf2"/>
+    <g shape-rendering="crispEdges" fill="#b79cf2">
+    <rect x="266" y="242" width="4" height="20"/>
+    <rect x="258" y="250" width="20" height="4"/>
+    <rect x="264" y="248" width="8" height="8"/>
+    <rect x="274" y="242" width="3" height="3"/></g>
+    <text x="292" y="249" font-size="13" font-weight="700" fill="#ece7d8">IA e automação</text>
+    <text x="292" y="265" font-size="11" fill="#8d93a6">LLMs dentro do produto</text>
+  </g>
+  <g class="pop" style="animation-delay:0.94s">
+    <rect x="548.5" y="228.5" width="295" height="47" rx="6" fill="#181b26" stroke="#2e3446"/>
+    <rect x="548.5" y="236" width="3" height="32" fill="#ef8a6f"/>
+    <g shape-rendering="crispEdges">
+    <rect x="566" y="243" width="20" height="5" fill="#ef8a6f"/><rect x="581" y="244" width="3" height="3" fill="#181b26"/><rect x="566" y="250" width="20" height="5" fill="#ef8a6f"/><rect x="581" y="251" width="3" height="3" fill="#181b26"/><rect x="566" y="257" width="20" height="5" fill="#ef8a6f"/><rect x="581" y="258" width="3" height="3" fill="#181b26"/></g>
+    <text x="600" y="249" font-size="13" font-weight="700" fill="#ece7d8">Infra e deploy</text>
+    <text x="600" y="265" font-size="11" fill="#8d93a6">Docker, CI/CD, produção</text>
+  </g>
+  <text x="240" y="298" font-size="12"><tspan class="cap" style="letter-spacing:2px">STACK</tspan><tspan dx="12"> </tspan><tspan fill="#ece7d8">Python</tspan><tspan fill="#2e3446"> / </tspan><tspan fill="#ece7d8">TypeScript</tspan><tspan fill="#2e3446"> / </tspan><tspan fill="#ece7d8">C#</tspan><tspan fill="#2e3446"> / </tspan><tspan fill="#ece7d8">Node.js</tspan><tspan fill="#2e3446"> / </tspan><tspan fill="#ece7d8">React</tspan><tspan fill="#2e3446"> / </tspan><tspan fill="#ece7d8">Django</tspan><tspan fill="#2e3446"> / </tspan><tspan fill="#ece7d8">.NET</tspan><tspan fill="#2e3446"> / </tspan><tspan fill="#ece7d8">Docker</tspan></text>
+
+  <g clip-path="url(#typed)">
+    <text x="240" y="333" font-size="13" fill="#ece7d8"><tspan fill="#7bd389">&gt;</tspan> linguagem é equipamento: <tspan fill="#f2c14e">troco conforme a missão</tspan><tspan class="cursor" fill="#f2c14e">_</tspan></text>
+  </g>
+</svg>
